@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "squirrel – CANADA GOOSE.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "squirrel – CANADA GOOSE@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "squirrel – CANADA GOOSE@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
